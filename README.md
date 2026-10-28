@@ -1,4 +1,4 @@
-# Richard Tripodi
+# Richard Trip
 
 QA analyst. I have spent the last ten years inside the systems of a bank six years running the night batch processes that had to finish before the branches opened, and the last four testing changes before they reached production.
 
